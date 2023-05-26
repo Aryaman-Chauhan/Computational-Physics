@@ -1,0 +1,4 @@
+The function at x=0 is where the curve inverts (2nd derivatives changes sign).
+The curve is concave up (x>0) and concave down (x0).
+The values of Xn+1 will repeat when the Newton-Raphson method is applied with a first guess as the inflection point, giving erroneous numbers (unless we take some other value as initial guess).
+Therefore, we won't find the precise root value.

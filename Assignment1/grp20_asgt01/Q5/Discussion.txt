@@ -1,0 +1,15 @@
+5a) It's common to assume that the variables a, b, and c have positive values. Lorenz used the values 10, 8/3, and 25 for a, c, and b.
+The system operates erratically for these (and related) values.
+[13]
+
+If b = 5, then there is only one equilibrium point, which is the origin. This place does not experience convection.
+All orbits converge to the origin at b, creating a universal attractor.
+
+A pitchfork bifurcation occurs at b = 10.
+
+
+When b=25, a=10, and c=8/3, the Lorenz system contains chaotic solutions, though not all of them are.
+The Lorenz attractor, as well as a strange attractor, a fractal, and a self-excited attractor, will attract nearly all starting points with respect to these three equilibria.
+
+
+The initial conditions are for x=y=z=0 in figures 5c and 5d. The x, y, and z are always zero and remain constant over time. However, with a=10, b=25, and c=8/3, even a small change to x, y, or z leads to chaotic solutions.

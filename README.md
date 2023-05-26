@@ -1,0 +1,2 @@
+# Computational Physics 
+Some codes related to different methods of solving various ingenous problems using the approach of numerical approximation. The codes have been divided into different topics, and two assignments given during the coursework in BITS Pilani have also been uploaded.
